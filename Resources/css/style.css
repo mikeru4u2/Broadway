@@ -1,0 +1,20 @@
+.header h1 {font-family: Helvetica;
+font-size: 70px;
+font-style: bold;
+color: white;}
+.Header "btn-nav"{font-family: Helvetica;
+font-size: 18px;
+color: white;}
+.Strategy{
+  font-family: Helvetica;
+  font-size: 32px;
+  color: white;
+}
+.symbols h3 {font-size: 23px;
+font-family: inherit;
+color: white;}
+.footer{font-family: Helvetica
+font-size: 11px;
+ color: white
+background-color: dimgray:}
+ 
